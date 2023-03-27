@@ -1,24 +1,41 @@
-🕵️‍♂️ NULLPWN 🇷🇴
-Welcome to my GitHub profile! I am a passionate security researcher from Romania 🇷🇴. My main focus is on exploring vulnerabilities and finding ways to secure systems and applications.
+👨‍💻 Hi, I'm NULLPWN!
+======================
 
-🔍 Research Interests
-Web application security
-Network security
-Malware analysis
-Cryptography
-🧰 Tools and Techniques
-Burp Suite
-Wireshark
-Nmap
-Metasploit Framework
-Reverse engineering
-🏆 Achievements
--
+I'm a security researcher who loves finding and reporting vulnerabilities in web applications, software, and networks. I'm passionate about helping companies improve their security posture by identifying and fixing vulnerabilities before they can be exploited.
 
-📚 Latest Blog Posts
--
+🔍 My expertise
+---------------
 
-🤝 Let's Connect!
--
+My areas of expertise include:
 
-Feel free to reach out to me if you have any questions or just want to chat about security! 😃
+-   Penetration testing
+-   Vulnerability assessment
+-   Network security
+-   Web application security
+-   Mobile application security
+-   Cloud security
+-   Malware analysis
+
+💻 My tools
+-----------
+
+I use a variety of tools to find vulnerabilities and test for security weaknesses, including:
+
+-   Burp Suite
+-   OWASP ZAP
+-   Metasploit Framework
+-   Nmap
+-   Nessus
+-   Wireshark
+-   Kali Linux
+-   And many more!
+
+📝 My work
+----------
+
+I have reported vulnerabilities to several companies and have been recognized in their Hall of Fame. My goal is to make the internet a safer place for everyone.
+
+🤝 Let's connect!
+-----------------
+
+If you want to collaborate, discuss security, or have any questions, feel free to reach out to me via [email](mailto:nullpwn@tutanota.com) or on [Twitter](https://twitter.com/nullpwn).
